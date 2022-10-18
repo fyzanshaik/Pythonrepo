@@ -1,3 +1,4 @@
 # Pythonrepo
-Basic python programs that I make while learning python from https://www.youtube.com/watch?v=_uQrJ0TkZlc&ab_channel=ProgrammingwithMosh tutorial.
+Basic python programs that I learned while doing this udemy course : https://www.udemy.com/course/the-modern-python3-bootcamp/learn/lecture/7990998#overview
+
 
